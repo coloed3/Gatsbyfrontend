@@ -4,7 +4,9 @@ import Layout from '../components/Layout';
 function HomePage() {
   return (
     <>
-      <p> Becomeing the boss at gatsby </p>
+      <p>
+        i Stepping through this solution <h1> this is learnng</h1>{' '}
+      </p>
     </>
   );
 }
