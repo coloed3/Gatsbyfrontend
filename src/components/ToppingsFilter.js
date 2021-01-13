@@ -1,6 +1,6 @@
-import { useStaticQuery, graphql, Link } from 'gatsby';
-import React from 'react';
-import styled from 'styled-components';
+import { useStaticQuery, graphql, Link } from "gatsby";
+import React from "react";
+import styled from "styled-components";
 
 const ToppingStyle = styled.div`
   display: flex;
